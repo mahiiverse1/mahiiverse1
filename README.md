@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MAHII
 - 🐱 I'm 19 y/o, go by she/her pronouns and a CS Major.
-- 👀 I’m interested in web and app development & all things aesthetic.
-- 🌱 I’m currently learning Python and React js.
+- 👀 I’m interested in web development & all things aesthetic.
+- 🌱 I’m currently learning Python, React js & Machine Learning.
 - 💞️ Besides all that I love reading books, sometimes writing them(lol), cats and BTS.
 - 📫 Here's how you can reach me 
     - My LinkedIn: https://www.linkedin.com/in/mahii-variar-9865711b3/
