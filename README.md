@@ -6,6 +6,7 @@
 - 📫 Here's how you can reach me 
     - My LinkedIn: https://www.linkedin.com/in/mahii-variar-9865711b3/
     - My gmail: mahiivariar26@gmail.com
+    - Personal portfolio: https://mahiiverse-portfolio.000webhostapp.com/
     
 "It is no stigma to wear rags; the disgrace is in continuing to wear them." - Muriel Strode, 'Wind-Wafted Wild Flowers'
 
