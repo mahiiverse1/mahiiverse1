@@ -22,8 +22,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
 </a>
 
-<a href="https://www.youtube.com/channel/UCpBGxQbi-wahJ7wRaG80E6w" target="blank">
-<img src="https://img.icons8.com/color/48/000000/youtube-play.png" style="height: 3rem"/>
+<a href="mailto:mahiivariar26@gmail.com" target="blank">
+<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
 </a>
 
 </div>
@@ -46,10 +46,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" style="height: 4rem" />
 </p>
 
-<!-- email -->
-
-<h3 align="center">You can also send me an email on:</h3>
-<p align="center"> mahiivariar26@gmail.com </p>
 
 <!-- Visitor count -->
 
