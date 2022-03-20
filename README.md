@@ -49,11 +49,9 @@
 
 <!-- Catto gifs -->
 
-I'm just your friendly neighborhood cat coder. So here are some cattos:
+I'm just your friendly neighborhood cat coder. So here's a cute catto:
 
-<div>
-    <img src="https://cultofthepartyparrot.com/guests/hd/catparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/partyblobcat.gif" width="36" height="30"/>
-    
+<div align="center">
+    <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif"/>
+      
 </div>
