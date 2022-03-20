@@ -1,4 +1,7 @@
-<a href="https://mahiiverse-portfolio.000webhostapp.com/"><img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/mahii-header.png" /></a>
+
+<!-- Intro -->
+
+<a href="https://mahiiverse-portfolio.000webhostapp.com/" target="_blank"><img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/mahii-header.png" /></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm Mahii.</h1>
 <h3 align="center">About Me :</h3>  
  <p>
@@ -8,7 +11,9 @@
 <br>⭐ Besides all that I love reading books, sometimes writing them(lol), cats, BTS & all things aesthetic.
 <br>👩‍💻 Constantly learning. I'm very interested in Open Source!
  </p>
-  
+
+<!-- Socials --> 
+
 <h3 align="center">Let's Connect! :</h3>  
 <p align="center">  
 <a href="https://www.linkedin.com/in/mahii-variar-9865711b3/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
@@ -16,21 +21,32 @@
 
 </p>
 
+<!-- Tech Stack --> 
+
 <h3 align="Center">Languages and Tools:</h3>  
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="height: 4rem" />
 </p>
+
+<!-- email -->
+
 <h3 align="center">You can also send me an email on:</h3>
 <p align="center" href="mailto: mahiivariar26@gmail.com"> mahiivariar26@gmail.com </p>
 
+<!-- Visitor count -->
+
 <h3 align="Center">Visitor Count: </h3> 
 ![Visitor Count](https://profile-counter.glitch.me/mahiiverse1/count.svg)
+
+<!-- Catto gifs -->
 
 I'm just your friendly neighborhood cat coder. So here are some cattos:
 
