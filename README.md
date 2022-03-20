@@ -15,11 +15,18 @@
 <!-- Socials --> 
 
 <h3 align="center">Let's Connect! :</h3>  
-<p align="center">  
-<a href="https://www.linkedin.com/in/mahii-variar-9865711b3/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-<a href="https://mahiiverse-portfolio.000webhostapp.com/" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Fweb-png-jpg-transparent-stock-website-icon-blue-PNG-free-PNG-Images_285955&psig=AOvVaw0fQGBwFqQSCnxnUxEffidI&ust=1647796259221000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOivzsnV0vYCFQAAAAAdAAAAABAD"/></a>
+<div align="center">
+<a href="https://www.linkedin.com/in/mahii-variar-9865711b3/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 
-</p>
+<a href="https://codepen.io/mahiiverse" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UCpBGxQbi-wahJ7wRaG80E6w" target="blank">
+<img src="https://img.icons8.com/color/48/000000/youtube-play.png" style="height: 3rem"/>
+</a>
+
+</div>
 
 <!-- Tech Stack --> 
 
@@ -34,12 +41,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="height: 4rem" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" style="height: 4rem" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="height: 4rem" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" style="height: 4rem" />
 </p>
 
 <!-- email -->
 
 <h3 align="center">You can also send me an email on:</h3>
-<p align="center" href="mailto: mahiivariar26@gmail.com"> mahiivariar26@gmail.com </p>
+<p align="center"> mahiivariar26@gmail.com </p>
 
 <!-- Visitor count -->
 
@@ -49,7 +59,7 @@
 
 <!-- Catto gifs -->
 
-I'm just your friendly neighborhood cat coder. So here's a cute catto:
+<h2 align="center">I'm just your friendly neighborhood cat coder. So here's a cute catto:</h2>
 
 <div align="center">
     <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
