@@ -10,6 +10,7 @@
 <br>💫 I’m a front-end web developer, currently learning React, Python and ML/AI.
 <br>⭐ Besides all that I love reading books, sometimes writing them(lol), cats, BTS & all things aesthetic.
 <br>👩‍💻 Constantly learning. I'm very interested in Open Source!
+ <br> <i>(Click on the header to know more!)</i>
  </p>
 
 <!-- Socials --> 
