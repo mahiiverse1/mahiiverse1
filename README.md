@@ -50,8 +50,9 @@
 <!-- Visitor count -->
 
 <h3 align="Center">Visitor Count: </h3> 
-
+<div align="center">
 ![Visitor Count](https://profile-counter.glitch.me/mahiiverse1/count.svg)
+</div>
 
 <!-- Catto gifs -->
 
