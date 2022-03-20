@@ -52,6 +52,6 @@
 I'm just your friendly neighborhood cat coder. So here's a cute catto:
 
 <div align="center">
-    <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="50" height="30"/>
+    <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
       
 </div>
