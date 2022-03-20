@@ -10,7 +10,7 @@
 <br>💫 I’m a front-end web developer, currently learning React, Python and ML/AI.
 <br>⭐ Besides all that I love reading books, sometimes writing them(lol), cats, BTS & all things aesthetic.
 <br>👩‍💻 Constantly learning. I'm very interested in Open Source!
- <br> <i>(Click on the header to know more!)</i>
+ <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
  </p>
 
 <!-- Socials --> 
@@ -58,7 +58,7 @@
 
 <!-- Catto gifs -->
 
-<h2 align="center">I'm just your friendly neighborhood cat coder. So here's a cute catto:</h2>
+<h2 align="center">I'm just your friendly neighborhood cat coder. So here's a cute catto 🐱 :</h2>
 
 <div align="center">
     <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
