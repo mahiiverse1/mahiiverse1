@@ -9,7 +9,7 @@
 <br>🐱 I'm 19 y/o, go by she/her pronouns.
 <br>💫 I’m a front-end web developer, currently learning React, Python and ML/AI.
 <br>⭐ Besides all that I love reading books, sometimes writing them(lol), cats, BTS & all things aesthetic.
-<br>👩‍💻 Constantly learning. I'm very interested in Open Source!
+<br>👩‍💻 Constantly learning. I'm super interested in Open Source!
  <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
  </p>
 
@@ -58,7 +58,7 @@
 
 <!-- Catto gifs -->
 
-<h2 align="center">Cheers if you've read till here. So here's a cute catto 🐱 for you:</h2>
+<h2 align="center">Cheers if you've read till here. Here's a cute catto 🐱 for you:</h2>
 
 <div align="center">
     <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
