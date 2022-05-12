@@ -15,7 +15,7 @@
 
 <!-- Socials --> 
 
-<h3 align="center">Let's Connect! :</h3>  
+<h3 align="center">Let's Connect! </h3>  
 <div align="center">
 <a href="https://www.linkedin.com/in/mahii-variar-9865711b3/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 
@@ -31,7 +31,7 @@
 
 <!-- Tech Stack --> 
 
-<h3 align="Center">Languages and Tools:</h3>  
+<h3 align="Center">Languages and Tools</h3>  
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
@@ -50,7 +50,7 @@
 
 <!-- Visitor count -->
 <div align="center">
-<h3 align="center">Visitor Count: </h3> 
+<h3 align="center">Visitor Count </h3> 
 
 ![Visitor Count](https://profile-counter.glitch.me/mahiiverse1/count.svg)
 
@@ -58,7 +58,7 @@
 
 <!-- Catto gifs -->
 
-<h2 align="center">Cheers if you've read till here. Here's a cute catto 🐱 for you:</h2>
+<h2 align="center">Cheers if you've read till here. Here's a cute catto 🐱 for you</h2>
 
 <div align="center">
     <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
