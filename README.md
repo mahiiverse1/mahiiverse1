@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm Mahii.</h1>
 <h3 align="center">About Me</h3>  
  <p>
- 👩‍🎓  A Sophomore year CSE undergrad at Terna Engineering College.
+ 👩‍🎓  I'm a third-year CSE undergrad at Terna Engineering College.
 <br>🐱 I'm 20 y/o, go by she/her pronouns.
 <br>💫 I’m a front-end web developer, currently learning React, Python and ML/AI.
 <br>⭐ Besides all that I love reading books, sometimes writing them(lol), cats, BTS & all things aesthetic.
