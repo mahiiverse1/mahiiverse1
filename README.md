@@ -1,7 +1,7 @@
 
 <!-- Intro -->
 
-<a href="https://mahiiverse-portfolio.000webhostapp.com/" target="_blank"><img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/mahii-header.png" /></a>
+<a href="https://mahiiverse1.github.io/personal-website-v2/" target="_blank"><img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/mahii-header.png" /></a>
 <h1 align="center">Hi!! I'm Mahii.</h1>
 <h3 align="center">About Me</h3>  
  <p>
