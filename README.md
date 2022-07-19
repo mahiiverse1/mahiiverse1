@@ -58,7 +58,7 @@
  
 <!-- Music Box -->
 <h3 align="center">Music Station 🎶</h3> 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3wHCCGynuZM3gm8y0vQtVC?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xkv3qjph6be24yswkkxgyafkom&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31xkv3qjph6be24yswkkxgyafkom&redirect=true)
 
 <!-- Catto gifs -->
 
