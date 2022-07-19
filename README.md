@@ -57,8 +57,8 @@
  </div>
  
 <!-- Music Box -->
-<h3 align="center">Music Station 🎶</h3> 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xkv3qjph6be24yswkkxgyafkom&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31xkv3qjph6be24yswkkxgyafkom&redirect=true)
+<!-- <h3 align="center">Music Station 🎶</h3> 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xkv3qjph6be24yswkkxgyafkom&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31xkv3qjph6be24yswkkxgyafkom&redirect=true) -->
 
 <!-- Catto gifs -->
 
