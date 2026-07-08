@@ -5,11 +5,11 @@
 <h1 align="center">Hi!! I'm Mahii.</h1>
 <h3 align="center">About Me</h3>  
  <p>
- 👩‍🎓  I'm a final year CSE undergrad at Terna Engineering College.
-<br>🐱 I'm 22 y/o, go by she/her pronouns.
-<br>💫 I’m a front-end web developer, currently learning Data Science, Python and ML/AI.
-<br>⭐ Besides all that I love reading books, sometimes writing them(lol), cats, BTS & all things aesthetic.
-<br>👩‍💻 Constantly learning. I'm super interested in Open Source!
+ 👩‍🎓  I'm a working professional, working with data and AI and exploring its uses. 
+<br>🐱 I'm 24 y/o, go by she/her pronouns.
+<br>💫 I'm building AI tools for healthcare domain.
+<br>⭐ Besides all that I love reading books, playing video games, cats, BTS & all things aesthetic.
+<br>👩‍💻 Constantly learning.
  <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
  </p>
 
